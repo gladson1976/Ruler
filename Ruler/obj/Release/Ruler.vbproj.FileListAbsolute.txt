@@ -1,0 +1,10 @@
+D:\Prabhu\VB\Ruler\Ruler\bin\Release\Ruler.exe
+D:\Prabhu\VB\Ruler\Ruler\bin\Release\Ruler.pdb
+D:\Prabhu\VB\Ruler\Ruler\bin\Release\Ruler.xml
+D:\Prabhu\VB\Ruler\Ruler\obj\Release\ResolveAssemblyReference.cache
+D:\Prabhu\VB\Ruler\Ruler\obj\Release\Ruler.Resources.resources
+D:\Prabhu\VB\Ruler\Ruler\obj\Release\Ruler.Ruler.resources
+D:\Prabhu\VB\Ruler\Ruler\obj\Release\Ruler.vbproj.GenerateResource.Cache
+D:\Prabhu\VB\Ruler\Ruler\obj\Release\Ruler.exe
+D:\Prabhu\VB\Ruler\Ruler\obj\Release\Ruler.xml
+D:\Prabhu\VB\Ruler\Ruler\obj\Release\Ruler.pdb
